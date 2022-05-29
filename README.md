@@ -1,2 +1,2 @@
-# basamak-say--toplam
+# basamak-sayi-toplam
 Basamak sayılarını toplayan program
